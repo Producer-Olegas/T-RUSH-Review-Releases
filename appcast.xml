@@ -1,8 +1,19 @@
-<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>T-RUSH Review</title>
+        <item>
+            <title>0.4.1</title>
+            <pubDate>Fri, 30 Oct 2026 01:32:10 +0300</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>T-RUSH Review 0.4.1</h2><ul><li>Исправлена загрузка интерфейса из защищённого временного пути macOS после скачивания.</li><li>Вместо пустого окна при ошибке загрузки показывается сообщение.</li></ul><p>Mac Intel и Apple Silicon, macOS 13 и новее. Сохранённые правки остаются на компьютере.</p>]]></description>
+            <enclosure url="https://raw.githubusercontent.com/Producer-Olegas/T-RUSH-Review-Releases/main/downloads/T-RUSH-Review-0.4.1-macOS-Universal.zip" length="3796621" type="application/octet-stream" sparkle:edSignature="7/xsSviQ3uUkB9FYtZIF+oS9JIBETBEB0l8DmfBo9Fg2w8YeVj3fkMej56gm6YaYNmfOoRXT7bc2Tq9MbB5hAw=="/>
+        </item>
         <item>
             <title>0.4.0</title>
             <pubDate>Fri, 30 Oct 2026 01:23:56 +0300</pubDate>
@@ -10,10 +21,11 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>T-RUSH Review 0.4.0</h2><ul><li>Автоматическая проверка обновлений и кнопка «Проверить обновления».</li><li>Подписанные обновления для Mac Intel и Apple Silicon.</li><li>Локальные правки сохраняются при обновлении.</li><li>Без заранее загруженных рабочих таблиц.</li></ul><p>Тестовая сборка, macOS 13 и новее. Правки пока не отправляются в Google.</p>]]></description>
-            <enclosure url="https://raw.githubusercontent.com/Producer-Olegas/T-RUSH-Review-Releases/main/downloads/T-RUSH-Review-0.4.0-macOS-Universal.zip" length="3789362" type="application/octet-stream" sparkle:edSignature="2qLa/UwI3RbZoFcrsUq+kU/aar3c5bHxavK/9u1nrjs6onDQUmpk71+oPRRYDvE6ZYavnqzXPby9DZRkGvoAAQ=="></enclosure>
+            <enclosure url="https://raw.githubusercontent.com/Producer-Olegas/T-RUSH-Review-Releases/main/downloads/T-RUSH-Review-0.4.0-macOS-Universal.zip" length="3789362" type="application/octet-stream" sparkle:edSignature="2qLa/UwI3RbZoFcrsUq+kU/aar3c5bHxavK/9u1nrjs6onDQUmpk71+oPRRYDvE6ZYavnqzXPby9DZRkGvoAAQ=="/>
         </item>
     </channel>
-</rss><!-- sparkle-signatures:
-edSignature: yrUIAifSmbWG0lQrWDMYEnDNNh0HU9oqEFPY0VCPgErin+tFqxvuqdLGytz74f9pW1k5EDcZY+7XUJiAa2fBDQ==
-length: 1703
+</rss>
+<!-- sparkle-signatures:
+edSignature: MyoUBMq18ILAQxzZBJh2HfTm62luSbJA9/q88qLq/s1juYAk6p11pl1UJbWwLnNwZAzXsBkYTF4AMIVR6aDnDQ==
+length: 2861
 -->
