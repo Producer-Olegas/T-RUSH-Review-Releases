@@ -6,6 +6,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>T-RUSH Review</title>
         <item>
+            <title>0.4.2</title>
+            <pubDate>Fri, 30 Oct 2026 01:36:55 +0300</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>T-RUSH Review 0.4.2</h2><ul><li>Приложение запускается с пустым источником. Таблица загружается только по действию пользователя.</li><li>Сохранённые правки доступны после повторной загрузки той же таблицы.</li><li>Зелёная кнопка обновления появляется только при наличии новой версии.</li><li>Ручная проверка обновлений доступна в системном меню приложения.</li></ul>]]></description>
+            <enclosure url="https://raw.githubusercontent.com/Producer-Olegas/T-RUSH-Review-Releases/main/downloads/T-RUSH-Review-0.4.2-macOS-Universal.zip" length="3799697" type="application/octet-stream" sparkle:edSignature="YrjlpyGz+kV6la+mnc/qTFPX/JHtIC/KSQjn9ez+OPGAlc/9q1k5xGFo0MtYSL8mB6go9t79tDarsv8u/qWFBA=="/>
+        </item>
+        <item>
             <title>0.4.1</title>
             <pubDate>Fri, 30 Oct 2026 01:32:10 +0300</pubDate>
             <sparkle:version>8</sparkle:version>
@@ -26,6 +35,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: MyoUBMq18ILAQxzZBJh2HfTm62luSbJA9/q88qLq/s1juYAk6p11pl1UJbWwLnNwZAzXsBkYTF4AMIVR6aDnDQ==
-length: 2861
+edSignature: 1d6KKMDdBpmjscHn9FroGi4wf3lcQe7oti0vpn2WGBP4dkePTmmuHJ3r2jdSdvXWAtbvbr0PZsukB9jyzcCfBg==
+length: 4190
 -->
