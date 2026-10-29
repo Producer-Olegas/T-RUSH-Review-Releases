@@ -4,7 +4,7 @@
 
 ## Установка на Mac
 
-**[Скачать T-RUSH Review 0.4.3 для Mac](https://raw.githubusercontent.com/Producer-Olegas/T-RUSH-Review-Releases/main/downloads/T-RUSH-Review-0.4.3-macOS-Universal.zip)**
+**[Скачать T-RUSH Review 0.4.4 для Mac](https://raw.githubusercontent.com/Producer-Olegas/T-RUSH-Review-Releases/main/downloads/T-RUSH-Review-0.4.4-macOS-Universal.zip)**
 
 Поддерживаются Intel и Apple Silicon. Нужна macOS 13 Ventura или новее.
 Распакуйте архив, перенесите приложение в «Программы» и откройте.
