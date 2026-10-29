@@ -6,6 +6,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>T-RUSH Review</title>
         <item>
+            <title>0.4.3</title>
+            <pubDate>Fri, 30 Oct 2026 01:42:50 +0300</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>T-RUSH Review 0.4.3</h2><ul><li>Мягкая тёмно-серая палитра, близкая к системным окнам macOS.</li><li>Осветлены фон, шапка, список листов, карточки и поля ввода.</li><li>Смягчён контраст текста; логотип и оранжевые акценты сохранены.</li></ul>]]></description>
+            <enclosure url="https://raw.githubusercontent.com/Producer-Olegas/T-RUSH-Review-Releases/main/downloads/T-RUSH-Review-0.4.3-macOS-Universal.zip" length="3799601" type="application/octet-stream" sparkle:edSignature="SyxOgTZg6YYtXT+5D3t+qQZ2uphTFd+AI7md1+NSx+v6upJHnA+LT1LcNz46cJY/x+7Vnx01rqbGcTaRY5izDQ=="/>
+        </item>
+        <item>
             <title>0.4.2</title>
             <pubDate>Fri, 30 Oct 2026 01:36:55 +0300</pubDate>
             <sparkle:version>9</sparkle:version>
@@ -23,18 +32,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <description><![CDATA[<h2>T-RUSH Review 0.4.1</h2><ul><li>Исправлена загрузка интерфейса из защищённого временного пути macOS после скачивания.</li><li>Вместо пустого окна при ошибке загрузки показывается сообщение.</li></ul><p>Mac Intel и Apple Silicon, macOS 13 и новее. Сохранённые правки остаются на компьютере.</p>]]></description>
             <enclosure url="https://raw.githubusercontent.com/Producer-Olegas/T-RUSH-Review-Releases/main/downloads/T-RUSH-Review-0.4.1-macOS-Universal.zip" length="3796621" type="application/octet-stream" sparkle:edSignature="7/xsSviQ3uUkB9FYtZIF+oS9JIBETBEB0l8DmfBo9Fg2w8YeVj3fkMej56gm6YaYNmfOoRXT7bc2Tq9MbB5hAw=="/>
         </item>
-        <item>
-            <title>0.4.0</title>
-            <pubDate>Fri, 30 Oct 2026 01:23:56 +0300</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>T-RUSH Review 0.4.0</h2><ul><li>Автоматическая проверка обновлений и кнопка «Проверить обновления».</li><li>Подписанные обновления для Mac Intel и Apple Silicon.</li><li>Локальные правки сохраняются при обновлении.</li><li>Без заранее загруженных рабочих таблиц.</li></ul><p>Тестовая сборка, macOS 13 и новее. Правки пока не отправляются в Google.</p>]]></description>
-            <enclosure url="https://raw.githubusercontent.com/Producer-Olegas/T-RUSH-Review-Releases/main/downloads/T-RUSH-Review-0.4.0-macOS-Universal.zip" length="3789362" type="application/octet-stream" sparkle:edSignature="2qLa/UwI3RbZoFcrsUq+kU/aar3c5bHxavK/9u1nrjs6onDQUmpk71+oPRRYDvE6ZYavnqzXPby9DZRkGvoAAQ=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 1d6KKMDdBpmjscHn9FroGi4wf3lcQe7oti0vpn2WGBP4dkePTmmuHJ3r2jdSdvXWAtbvbr0PZsukB9jyzcCfBg==
-length: 4190
+edSignature: AOrSNJZ26f5mo2HMB+WP59ZI16cp4nzQDXV9ReBnBfY8yYHkPBFH4CAp2jhwHZ7G45Lpd4XliW/9MvyWAM4eCw==
+length: 4025
 -->
