@@ -6,6 +6,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>T-RUSH Review</title>
         <item>
+            <title>0.4.5</title>
+            <pubDate>Fri, 30 Oct 2026 09:02:32 +0300</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>0.4.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>T-RUSH Review 0.4.5</h2><ul><li>Пустые текстовые поля теперь отмечаются как замечания в списке записей, счётчике и фильтре.</li><li>После заполнения поля замечание исчезает.</li><li>Обновлены инструкции по установке и первому запуску на macOS.</li></ul>]]></description>
+            <enclosure url="https://raw.githubusercontent.com/Producer-Olegas/T-RUSH-Review-Releases/main/downloads/T-RUSH-Review-0.4.5-macOS-Universal.zip" length="3799566" type="application/octet-stream" sparkle:edSignature="/qwBWzTk6P/MjdMMJGIZuD33OTi6guCMCdyya3YDC+cucbViWGONbC5QnQ3osjOPOj68l+hl1vaLBnBntChoDw=="/>
+        </item>
+        <item>
             <title>0.4.4</title>
             <pubDate>Fri, 30 Oct 2026 01:50:09 +0300</pubDate>
             <sparkle:version>11</sparkle:version>
@@ -23,18 +32,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <description><![CDATA[<h2>T-RUSH Review 0.4.3</h2><ul><li>Мягкая тёмно-серая палитра, близкая к системным окнам macOS.</li><li>Осветлены фон, шапка, список листов, карточки и поля ввода.</li><li>Смягчён контраст текста; логотип и оранжевые акценты сохранены.</li></ul>]]></description>
             <enclosure url="https://raw.githubusercontent.com/Producer-Olegas/T-RUSH-Review-Releases/main/downloads/T-RUSH-Review-0.4.3-macOS-Universal.zip" length="3799601" type="application/octet-stream" sparkle:edSignature="SyxOgTZg6YYtXT+5D3t+qQZ2uphTFd+AI7md1+NSx+v6upJHnA+LT1LcNz46cJY/x+7Vnx01rqbGcTaRY5izDQ=="/>
         </item>
-        <item>
-            <title>0.4.2</title>
-            <pubDate>Fri, 30 Oct 2026 01:36:55 +0300</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>T-RUSH Review 0.4.2</h2><ul><li>Приложение запускается с пустым источником. Таблица загружается только по действию пользователя.</li><li>Сохранённые правки доступны после повторной загрузки той же таблицы.</li><li>Зелёная кнопка обновления появляется только при наличии новой версии.</li><li>Ручная проверка обновлений доступна в системном меню приложения.</li></ul>]]></description>
-            <enclosure url="https://raw.githubusercontent.com/Producer-Olegas/T-RUSH-Review-Releases/main/downloads/T-RUSH-Review-0.4.2-macOS-Universal.zip" length="3799697" type="application/octet-stream" sparkle:edSignature="YrjlpyGz+kV6la+mnc/qTFPX/JHtIC/KSQjn9ez+OPGAlc/9q1k5xGFo0MtYSL8mB6go9t79tDarsv8u/qWFBA=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: Z619DfWHIhCKXXwz8i6AkSlaSa1mPhRH438JrfSmboIiyRwtcPEA2M7bQpNGScqBXPSwFaxXE1aat4Xfgqf6BQ==
-length: 3873
+edSignature: iGIT0jkPVH4X3SelmSnqEdF22qG/m6W5lNQc65c3LJLQgNcFT+8xnnR0DovxxWB6vN/vsGAGVx7mrFMdyXvuCw==
+length: 3662
 -->
