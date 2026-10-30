@@ -6,6 +6,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>T-RUSH Review</title>
         <item>
+            <title>0.4.6</title>
+            <pubDate>Fri, 30 Oct 2026 14:19:13 +0300</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.4.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>T-RUSH Review 0.4.6</h2><ul><li>Убрано меню Reload по правой кнопке на фоне приложения.</li><li>Контекстное меню для работы с текстом сохранено.</li></ul>]]></description>
+            <enclosure url="https://raw.githubusercontent.com/Producer-Olegas/T-RUSH-Review-Releases/main/downloads/T-RUSH-Review-0.4.6-macOS-Universal.zip" length="3800114" type="application/octet-stream" sparkle:edSignature="N9u/KY0Ksdn1n2qy8ksY6uG8jEXksHp7aDvIamxJRpWcKDSgityQV7VX0T7lC1oKOE593UqHAWYxLWP48xywCQ=="/>
+        </item>
+        <item>
             <title>0.4.5</title>
             <pubDate>Fri, 30 Oct 2026 09:02:32 +0300</pubDate>
             <sparkle:version>12</sparkle:version>
@@ -23,18 +32,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <description><![CDATA[<h2>T-RUSH Review 0.4.4</h2><ul><li>Заголовок редактора — имя файла, без лишних подписей.</li><li>Убрана служебная строка под названием проверяемого листа.</li><li>Название окна — T-RUSH Review.</li></ul>]]></description>
             <enclosure url="https://raw.githubusercontent.com/Producer-Olegas/T-RUSH-Review-Releases/main/downloads/T-RUSH-Review-0.4.4-macOS-Universal.zip" length="3799569" type="application/octet-stream" sparkle:edSignature="lWTta5OcgkoiwhQW4RZTBd2il1c3Wj0D5f5iheQVBeufIZSNvlTNoX8E+w/oAFgSNHRM0haQffNQX7AwV2orDA=="/>
         </item>
-        <item>
-            <title>0.4.3</title>
-            <pubDate>Fri, 30 Oct 2026 01:42:50 +0300</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>T-RUSH Review 0.4.3</h2><ul><li>Мягкая тёмно-серая палитра, близкая к системным окнам macOS.</li><li>Осветлены фон, шапка, список листов, карточки и поля ввода.</li><li>Смягчён контраст текста; логотип и оранжевые акценты сохранены.</li></ul>]]></description>
-            <enclosure url="https://raw.githubusercontent.com/Producer-Olegas/T-RUSH-Review-Releases/main/downloads/T-RUSH-Review-0.4.3-macOS-Universal.zip" length="3799601" type="application/octet-stream" sparkle:edSignature="SyxOgTZg6YYtXT+5D3t+qQZ2uphTFd+AI7md1+NSx+v6upJHnA+LT1LcNz46cJY/x+7Vnx01rqbGcTaRY5izDQ=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: iGIT0jkPVH4X3SelmSnqEdF22qG/m6W5lNQc65c3LJLQgNcFT+8xnnR0DovxxWB6vN/vsGAGVx7mrFMdyXvuCw==
-length: 3662
+edSignature: 1OnqY8AVZtj/fpEGO3isRFUzLnvy/Mr0Pq/c9yfxkfMchhXDSuaQqMNqSV4x8h3vI+S2yYz6HX8+qwBWznElBQ==
+length: 3509
 -->
